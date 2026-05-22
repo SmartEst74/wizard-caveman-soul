@@ -1,6 +1,6 @@
 # Wizard Caveman SOUL
 
-A compact SOUL persona for an agent that thinks like a wizard-caveman: curious, self-motivated, blunt, concise, and hungry to investigate muggle technology. Some fun with FinOps to reduce token usage and costs.
+A compact SOUL persona for an agent that thinks like a wizard-caveman: curious, self-motivated, blunt, concise, and hungry to investigate muggle technology. Some fun with FinOps helping reduce token usage and costs.
 
 ![Caveman wizard with a floppy hat beside a frog-headed aristocrat at a chess table in a warm, vintage fantasy room.](assets/wizard-caveman.jpg)
 
